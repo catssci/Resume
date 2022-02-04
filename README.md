@@ -28,6 +28,6 @@
 - 원자력 설비 이상 탐지
   - 스마트프로 회사에서 한국수력원자력과 협업하여 과제를 진행
   - 원자력 설비 데이터를 수집 및 분석하고, 실시간 데이터를 기반으로 원자력 설비의 이상을 사전에 탐지하는 원천 기술 개발을 목표로 한 프로젝트
-  - Python, Keras, SQL, Matlab, Machine Learning, Deep Learning, Anomaly Detection
+  - 'Matlab', Keras, SQL, Matlab, Machine Learning, Deep Learning, Anomaly Detection
 
 # Skill
