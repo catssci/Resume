@@ -31,3 +31,4 @@
   - `Python` `Keras` `SQL` `Matlab` `Machine Learning` `Deep Learning` `Anomaly Detection`
 
 # Skill
+`Python` `Matlab` `R` `Java` `SQL`
